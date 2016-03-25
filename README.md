@@ -1,7 +1,7 @@
 test-shunit2-travis
 ===================
 
-[![Build Status](https://travis-ci.org/soulseekah/test-shunit2-travis.png?branch=master)](https://travis-ci.org/soulseekah/test-shunit2-travis)
+[![Build Status](https://travis-ci.org/keegoid/test-shunit2-travis.svg?branch=master)](https://travis-ci.org/keegoid/test-shunit2-travis)
 
 A quick test repository to see how Travis can be used with shunit2.
 
